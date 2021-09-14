@@ -11,9 +11,11 @@
     <img align="center" alt="magnoweege" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="magnoweege" height="72" width="72" src="https://github.com/devicons/devicon/blob/v2.13.0/icons/csharp/csharp-original.svg">
     <img align="center" alt="magnoweege" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
-    <img align="center" alt="Wagner-HTML" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"><br>
-    <img align="center" alt="Wagner-CSS" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-    <img align="center" alt="Wagner-Python" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+    <img align="center" alt="magnoweege" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"><br>
+    <img align="center" alt="magnoweege" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+    <img align="center" alt="magnoweege" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+    <img align="center" alt="magnoweege" height="72" width="72" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
+    <img align="center" alt="magnoweege" height="72" width="72" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
 <p><br></p>
   
 </div>
